@@ -1,0 +1,20 @@
+﻿  ExtraFuncs.cpp
+D:\Projects\op\sr 2 2\ExtraFuncs.cpp(18,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\op\sr 2 2\ExtraFuncs.cpp(32,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\op\sr 2 2\ExtraFuncs.cpp(43,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\op\sr 2 2\ExtraFuncs.cpp(44,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\op\sr 2 2\ExtraFuncs.cpp(58,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\op\sr 2 2\ExtraFuncs.cpp(59,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\op\sr 2 2\ExtraFuncs.cpp(96,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\op\sr 2 2\ExtraFuncs.cpp(97,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\op\sr 2 2\ExtraFuncs.cpp(118,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\op\sr 2 2\ExtraFuncs.cpp(119,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\op\sr 2 2\ExtraFuncs.cpp(171,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\op\sr 2 2\ExtraFuncs.cpp(217,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\op\sr 2 2\ExtraFuncs.cpp(238,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\op\sr 2 2\ExtraFuncs.cpp(307,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Source.cpp
+D:\Projects\op\sr 2 2\Source.cpp(13,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\op\sr 2 2\Source.cpp(50,13): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  Создание кода...
+  sr 2 2.vcxproj -> D:\Projects\op\sr 2 2\Debug\sr 2 2.exe
