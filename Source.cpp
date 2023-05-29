@@ -17,6 +17,7 @@ void printDb(vector<Camera> db) {
 }
 
 //Новий коментар
+//Новий коментар 2
 
 int main() {
     setlocale(LC_ALL, "Ukrainian");
